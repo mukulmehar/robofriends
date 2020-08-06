@@ -1,0 +1,612 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"on",
+				"one_image"
+			],
+			[
+				"prob",
+				"prob_mat"
+			],
+			[
+				"all",
+				"all_theta"
+			],
+			[
+				"queries",
+				"queries"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"str",
+				"strings"
+			],
+			[
+				"widt",
+				"width\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"se",
+				"second_node"
+			],
+			[
+				"Node",
+				"Node"
+			],
+			[
+				"N",
+				"Node"
+			],
+			[
+				"l",
+				"listLength"
+			],
+			[
+				"print",
+				"printList"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"L",
+				"LinkedList"
+			],
+			[
+				"li",
+				"listLength"
+			],
+			[
+				"set",
+				"setData"
+			],
+			[
+				"get",
+				"getNext"
+			],
+			[
+				"reg",
+				"reg_term"
+			],
+			[
+				"z",
+				"z"
+			],
+			[
+				"e",
+				"eachQuery"
+			],
+			[
+				"s",
+				"seqList"
+			],
+			[
+				"q",
+				"queries"
+			],
+			[
+				"arr",
+				"arrSum"
+			],
+			[
+				"X",
+				"X_norm"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"ma",
+				"MarkerSize"
+			],
+			[
+				"square",
+				"squareThisNumber"
+			],
+			[
+				"M",
+				"M"
+			],
+			[
+				"inn",
+				"innerText"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"a",
+				"arrElement"
+			],
+			[
+				"p",
+				"p1"
+			],
+			[
+				"music",
+				"music2"
+			],
+			[
+				"mu",
+				"music1"
+			],
+			[
+				"h",
+				"html1"
+			],
+			[
+				"c",
+				"content\tAttr"
+			],
+			[
+				"S",
+				"S"
+			],
+			[
+				"an",
+				"an_integer"
+			],
+			[
+				"binary",
+				"binary_name"
+			],
+			[
+				"bi",
+				"binary_name"
+			],
+			[
+				"r",
+				"rotated_list"
+			],
+			[
+				"n",
+				"next_num"
+			],
+			[
+				"d",
+				"dir"
+			],
+			[
+				"lis",
+				"list_microphone_names"
+			],
+			[
+				"sr",
+				"sr"
+			],
+			[
+				"fact",
+				"factor"
+			],
+			[
+				"po",
+				"pos"
+			],
+			[
+				"le",
+				"leftRotate"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"width",
+				"width\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"grid",
+				"grid-gap\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"f",
+				"flex-end\talign-items"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"tra",
+				"translateX()\ttransform"
+			],
+			[
+				"trans",
+				"translateX"
+			],
+			[
+				"tr",
+				"translateX()\ttransform"
+			],
+			[
+				"fl",
+				"flex\tproperty"
+			],
+			[
+				"wi",
+				"min-width\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tcolor"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"backg",
+				"background-size\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"A File Icon: Revert to a Freshly Installed State"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Babel",
+				"Sublime Merge: Blame File"
+			],
+			[
+				"install",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mmukul/Documents/robofriends/src/index.js",
+		"/home/mmukul/Documents/robofriends/src/App.js",
+		"/home/mmukul/Documents/start-here-guidelines/CONTRIBUTORS.md",
+		"/home/mmukul/Videos/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/15.1 exercise6 SOLUTIONS.js.js",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex3/ex3/ex3.m",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex3/ex3/lrCostFunction.m",
+		"/home/mmukul/Documents/MachineLearning/test.m",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex3/ex3/predict.m",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex3/ex3/predictOneVsAll.m",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex3/ex3/oneVsAll.m",
+		"/home/mmukul/Videos/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/22.2 ES10 Solutions.js.js",
+		"/home/mmukul/Videos/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/17.1 exerciseES7-SOLUTIONS.js.js",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex3/ex3/ex3data1.mat",
+		"/home/mmukul/Videos/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/8.1 exercise4-SOLUTIONS.js.js",
+		"/home/mmukul/Videos/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/8.2 exercise4.js.js",
+		"/home/mmukul/Videos/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/2.2 exercise1.js.js",
+		"/home/mmukul/Videos/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/13. Advanced Javascript/6.1 exercise3-SOLUTIONS.js",
+		"/home/mmukul/Videos/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/12. DOM Manipulation/3. Exercise DOM Selectors.html",
+		"/home/mmukul/Videos/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/12. DOM Manipulation/4.1 Javascript Char Codes (Key Codes).html",
+		"/home/mmukul/Documents/Django/mysite/Templates/index.html",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex2/ex2/predict.m",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex2/ex2/costFunctionReg.m",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex2/ex2/costFunction.m",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex2/ex2/sigmoid.m",
+		"/home/mmukul/Documents/test.py",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex1/ex1/normalEqn.m",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex1/ex1/featureNormalize.m",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex2/ex2/plotData.m",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex1/ex1/gradientDescentMulti.m",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex1/ex1/computeCostMulti.m",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex1/ex1/ex1_multi.m",
+		"/home/mmukul/Documents/Python_practise/AdvancedPython/2dArray.py",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex1/ex1/submit.m",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex1/ex1/gradientDescent.m",
+		"/home/mmukul/Documents/MachineLearning/Octave/plottingData.m",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex1/ex1/plotData.m",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex1/ex1/computeCost.m",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex1/ex1/warmUpExercise.m",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex1/ex1/ex1.m",
+		"/home/mmukul/Documents/MachineLearning/Octave/movingDataAround.m",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex1/ex1/ex1data1.txt",
+		"/home/mmukul/Documents/MachineLearning/Octave/BasicOperations.m",
+		"/home/mmukul/Documents/MachineLearning/Octave/functions.m",
+		"/home/mmukul/Documents/MachineLearning/Octave/costFunction.m",
+		"/home/mmukul/Documents/MachineLearning/Octave/squareAndCube.m",
+		"/home/mmukul/Documents/MachineLearning/Octave/squareThisNumber.m",
+		"/home/mmukul/Documents/MachineLearning/Octave/control.m",
+		"/home/mmukul/Documents/MachineLearning/Exercise/machine-learning-ex1/ex1/ex1data2.txt",
+		"/home/mmukul/Documents/MachineLearning/octIntro.m",
+		"/home/mmukul/Documents/Python_practise/arrSum.py",
+		"/home/mmukul/Documents/JavascriptBasics/elementSelector.js",
+		"/home/mmukul/Documents/JavascriptBasics/website.html",
+		"/home/mmukul/Documents/Floki/main.py",
+		"/home/mmukul/Documents/JavascriptBasics/WebCrawler.js",
+		"/home/mmukul/Documents/JavascriptBasics/index.html",
+		"/home/mmukul/Documents/JavascriptBasics/website.js",
+		"/home/mmukul/Documents/JavascriptBasics/window.js",
+		"/home/mmukul/Documents/JavascriptBasics/functions.js",
+		"/home/mmukul/Documents/JavascriptBasics/arraysAndObjects.js",
+		"/home/mmukul/Documents/JavascriptBasics/arraysAndObjects.html",
+		"/home/mmukul/Documents/JavascriptBasics/strings.js",
+		"/home/mmukul/Documents/Javascript basics/strings.js",
+		"/home/mmukul/Documents/Javascript basics/index.html",
+		"/home/mmukul/Documents/Python_practise/codeForces/gameWithArray1355D.py",
+		"/home/mmukul/Documents/Python_practise/AdvancedPython/arrayRotation.py",
+		"/home/mmukul/Documents/Python_practise/AdvancedPython/chefAndRecipe.py",
+		"/home/mmukul/Documents/Python_practise/AdvancedPython/multipleOf3.py",
+		"/home/mmukul/Documents/Python_practise/AdvancedPython/theWalkingMan.py",
+		"/home/mmukul/Documents/Python_practise/AdvancedPython/valueOfName.py",
+		"/home/mmukul/Documents/zarvis.py",
+		"/home/mmukul/Documents/fcfs.c",
+		"/home/mmukul/Documents/roundrobin.c",
+		"/home/mmukul/Documents/helloworld.java",
+		"/home/mmukul/Documents/flappyBird/main.py",
+		"/home/mmukul/Documents/pizzaPython/pizzapi/pizzapy/urls.py",
+		"/home/mmukul/Documents/pizzaPython/pizzapi/pizzapy/store.py",
+		"/home/mmukul/Documents/pizzaPython/pizzapi/tutorial.py",
+		"/home/mmukul/Documents/projectEuler/largestPrimeFactor.py",
+		"/home/mmukul/Documents/projectEuler/evenFibonacci.py",
+		"/home/mmukul/Documents/codechef/blah.py",
+		"/home/mmukul/Documents/Web-dev/layouts/index.html",
+		"/home/mmukul/Documents/Web-dev/layouts/style.css",
+		"/home/mmukul/Documents/Python_practise/insem_practise.py",
+		"/home/mmukul/Documents/dataStructures/Arrays/arrayRotation.cpp",
+		"/home/mmukul/Documents/Python_practise/commonElements.py",
+		"/home/mmukul/Documents/Python_practise/minmax.py",
+		"/home/mmukul/Documents/codeForces/candiesAndTwoSisters.cpp",
+		"/home/mmukul/Videos/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/11. Javascript/4.1 exercise1.txt.txt",
+		"/home/mmukul/.cache/.fr-sqPFMe/project-start/style.css",
+		"/home/mmukul/Documents/Web-dev/Beyond-the-milky-way/index.html",
+		"/home/mmukul/Documents/Web-dev/Beyond-the-milky-way/stylesheets/style.css",
+		"/home/mmukul/Documents/Web-dev/Startup/startupstyle.css",
+		"/home/mmukul/Documents/Web-dev/Startup/4.3 index.html",
+		"/home/mmukul/Documents/Web-dev/Startup/startup-style.css",
+		"/home/mmukul/Documents/Web-dev/Startup/4.2 style.css",
+		"/home/mmukul/Videos/[FreeCourseSite.com] Udemy - The Complete Web Developer in 2020 Zero to Mastery/8. Bootstrap 4, Templates, And Building Your Startup Landing Page/4.3 index.html.html",
+		"/home/mmukul/Documents/Web-dev/Know-it-all/index.html",
+		"/home/mmukul/Documents/Web-dev/Beginner/index.html",
+		"/home/mmukul/Documents/Web-dev/Beginner/Styles/style.css",
+		"/home/mmukul/Documents/Python_practise/Error-handeling.py"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SearchBox.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
